@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: ghcr.io/sraone-1999/java-hello-world:main
+        image: ghcr.io/sraone-1999/java-hello-world:cd325a2faef243b780e8de751c29f6179d1fb287
         ports:
         - containerPort: 8080
